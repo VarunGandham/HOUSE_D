@@ -25,3 +25,8 @@ git add .                                                                       
 git commmit -m"   *INSERT THE COMMIT MESSAGE YOU WOULD LIKE TO TAG IT WITH*  "                            -Command 3
 
 git push                                                                                                  -Command1 4
+
+
+
+
+"-Command 1/2/3/4" are just to let you know that they are commands, They SHOULD NOT BE ENTERED ALONG in  GIT BASH CONSOLE
